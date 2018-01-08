@@ -9,8 +9,4 @@ class Solution(object):
             b= b*10+ a%10
             a/=10
         return b==x
-        """
-        :type x: int
-        :rtype: bool
-        """
-        
+      
