@@ -1,5 +1,5 @@
 # Algorithms & Data Structures
-
+Code written in Python. All the code will be updated soon.
 ## Data Structures!
 - Array
 - Linked Lists
