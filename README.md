@@ -1,4 +1,4 @@
-# 100 days Coding Challenge: 5 Question Per day(5th July-Oct 13)
+# 100 days Coding Challenge: 5 Question Per day(6th July-Oct 14)
 # Algorithms & Data Structures
 Code written in Python. All the code will be updated soon.
 ## Data Structures!
