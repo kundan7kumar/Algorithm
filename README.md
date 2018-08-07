@@ -1,6 +1,6 @@
-# 100 days Coding Challenge: 5 Question Per day(6th July-Oct 14)
+# 100 days Coding Challenge: 5 Question Per day(7th Aug-Nov 15)
 # Algorithms & Data Structures
-Code written in Python. All the code will be updated soon.
+Code written in Python and Java. All the code will be updated soon.
 ## Data Structures!
 - Array
 - Linked Lists
@@ -65,3 +65,7 @@ Code written in Python. All the code will be updated soon.
   - Length Encoding  
 - Geometric Algorithms
   - Convex Hull 
+  
+  Machine and Deep Learning Projects will be updated(100 days of ML Challenge)
+  - 1 hrs code 
+  - 1 hrs Study
