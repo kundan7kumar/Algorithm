@@ -18,3 +18,23 @@ print(c)
 
 
 
+# common element between two list
+
+a1=[2,4,56,87,23,786,56,98]
+b1=[2,34,56,7,56,67]
+res=[]
+for k in a1:
+    if k in b1:
+        res.append(k)
+
+#With list comprehension
+# one way
+[res.append(i) for i in a1 if i in b1]
+
+#2nd way
+res=[i for i in a1 if i in b1]
+
+# if some number repeated in any of the list , set
+res = set(a1) & set(b1)
+print(res)
+
