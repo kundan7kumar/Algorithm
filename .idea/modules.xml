@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Front-End/Flask_Visual/.idea/Flask_Visual.iml" filepath="$PROJECT_DIR$/../Python-Front-End/Flask_Visual/.idea/Flask_Visual.iml" />
     </modules>
   </component>
 </project>

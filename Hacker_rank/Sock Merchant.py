@@ -1,7 +1,3 @@
-
-
-
-
 from collections import Counter
 input()
 socks, pairs = Counter(map(int,input().strip().split())), 0
