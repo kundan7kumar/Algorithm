@@ -3,7 +3,7 @@ def checkMagazine(m,n):
     n.lower()
     m.sort()
     n.sort()
-    if
+
 
 
 
