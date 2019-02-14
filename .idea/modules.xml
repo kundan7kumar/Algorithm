@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Python-Front-End/Flask_Visual/.idea/Flask_Visual.iml" filepath="$PROJECT_DIR$/../Python-Front-End/Flask_Visual/.idea/Flask_Visual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Full-Stack/React_Flask/.idea/React_Flask.iml" filepath="$PROJECT_DIR$/../Full-Stack/React_Flask/.idea/React_Flask.iml" />
     </modules>
   </component>
 </project>
