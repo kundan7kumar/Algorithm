@@ -1,4 +1,5 @@
 # recursion : a function is recursive if it calls itself and have termination condition
+# recursion includes atleast two parts. a. a base condition b. at least one recursive case
 # E.g : Add all elements in the list
 
 #Without recursion
