@@ -65,6 +65,3 @@ Code written in Python and Java. All the code will be updated soon.
 - Geometric Algorithms
   - Convex Hull 
   
-  Machine and Deep Learning Projects will be updated(100 days of ML Challenge)
-  - 1 hrs code 
-  - 1 hrs Study
