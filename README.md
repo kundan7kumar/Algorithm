@@ -1,6 +1,5 @@
 # Artifical Intelligence 
-                100 days of Artificial Intelligence Code
-- Statistical Analysis and A/B testing
+                      100 days of Artificial Intelligence Code
 
 ### Machine Learning
 
@@ -54,3 +53,5 @@
 
 
 ### Computer Vision
+
+- Statistical Analysis and A/B testing
