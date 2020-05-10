@@ -1,5 +1,5 @@
 # Artifical Intelligence 
-                      100 days of Artificial Intelligence Code
+                                 100 days of Artificial Intelligence Code
 
 ### Machine Learning
 
