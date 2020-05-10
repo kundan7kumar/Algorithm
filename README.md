@@ -1,5 +1,5 @@
-# Artifical Intelligence : [Mar 6 - Jun 14]
-
+# Artifical Intelligence 
+                100 days of Artificial Intelligence Code
 - Statistical Analysis and A/B testing
 
 ### Machine Learning
