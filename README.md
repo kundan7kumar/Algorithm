@@ -57,7 +57,7 @@
 - Statistical Analysis and A/B testing
 
 
-                                  ### Book to Complete
+                                      Book to Complete
 
 - Learning with data
 - Pattern recognition
