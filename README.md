@@ -55,3 +55,10 @@
 ### Computer Vision
 
 - Statistical Analysis and A/B testing
+
+
+                                  ### Book to Complete
+
+- Learning with data
+- Pattern recognition
+- Deep Learning by Ian Goodfellow
