@@ -1,5 +1,5 @@
 # Artifical Intelligence 
-                                 100 days of Artificial Intelligence Code- [11th May - 23th Aug]
+                                 100 days of Artificial Intelligence Code- [16th May - 24th Aug]
 
 ### Machine Learning
 
