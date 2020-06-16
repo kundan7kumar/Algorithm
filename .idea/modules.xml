@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../100-days-Algorithm-Challenge/.idea/100-days-Algorithm-Challenge.iml" filepath="$PROJECT_DIR$/../100-days-Algorithm-Challenge/.idea/100-days-Algorithm-Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Python-Front-End/Flask_Visual/.idea/Flask_Visual.iml" filepath="$PROJECT_DIR$/../Python-Front-End/Flask_Visual/.idea/Flask_Visual.iml" />
     </modules>

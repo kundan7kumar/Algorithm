@@ -8,6 +8,7 @@
     <orderEntry type="library" name="R Skeletons" level="application" />
     <orderEntry type="module" module-name="Flask_Visual" />
     <orderEntry type="module" module-name="React_Flask" />
+    <orderEntry type="module" module-name="100-days-Algorithm-Challenge" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

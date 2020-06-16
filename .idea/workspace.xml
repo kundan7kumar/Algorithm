@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa7f5a04-3fe6-4889-bfd1-753b7a37e6f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/abc1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +24,7 @@
         <option value="kundan kumar &lt;kkundan7kumar@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../100-days-Algorithm-Challenge" />
   </component>
   <component name="ProjectId" id="1cKcxrg8b0eXBTCc1ND4uKxiY37" />
   <component name="PropertiesComponent">
@@ -47,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fiboi">
+  <component name="RunManager" selected="Python.abc">
     <configuration name="Fiboi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +83,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic_Programming/Fibonacci_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abc1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,27 +175,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weighted_mean (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/weighted_mean.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="weighted_mean" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,19 +199,19 @@
     <list>
       <item itemvalue="Python.test" />
       <item itemvalue="Python.weighted_mean" />
-      <item itemvalue="Python.weighted_mean (1)" />
       <item itemvalue="Python.merge" />
       <item itemvalue="Python.dictionary" />
       <item itemvalue="Python.Fibonacci_number" />
       <item itemvalue="Python.Fiboi" />
+      <item itemvalue="Python.abc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.abc" />
         <item itemvalue="Python.Fiboi" />
         <item itemvalue="Python.Fibonacci_number" />
         <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.merge" />
-        <item itemvalue="Python.weighted_mean (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -494,6 +495,41 @@
           <url>file://$PROJECT_DIR$/Basic/merge.py</url>
           <line>30</line>
           <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abc1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
