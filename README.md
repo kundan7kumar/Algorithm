@@ -1,4 +1,4 @@
-                                 # 100 days Coding Challenge [3/3/2021  - 06/11/2021]
+                                 # 100 days Coding Challenge [3/3/2021  -  06/11/2021]
 
 # #100DaysofCode
 ## #Algorithm
@@ -6,7 +6,7 @@
 ----
 ## Algorithm
 
-100 days Coding Challenge which consists algorithmic analysis from various field, either from machine or deep learning , robotics or simply from Leetcode.The main purpose of this challenge is write code everyday for the next 100 days.
+100 days Coding Challenge consists algorithmic analysis from various field, either from machine or deep learning , robotics or simply from Leetcode.The main purpose of this challenge is to write code everyday for the next 100 days.
 
 # Synopsis 
 
