@@ -50,3 +50,6 @@ class Solution:
                 left = mid + 1
         return left
 ### Need to understand the time exceed avoid
+
+"""https://www.reddit.com/r/Python/comments/36xu5z/can_integer_operations_overflow_in_python/
+"""
