@@ -7,15 +7,15 @@ def linkedListCycle(head):
     if head is None:
         return False
 
-    slow = head
-    fast = head.next
-
-    while slow is not fast:
-        if fast is None or fast.next is None:
-            return False
-
-        slow = slow.next
+    slow = fast = head
+    while fast and fast.next:
         fast = fast.next.next
-    return True
+        slow = slow.next
+        if slow == fast: break
 
-
+    if not fast or not fast.next: return None
+    slow = head
+    while slow != fast:
+        slow = slow.next
+        fast = fast.next
+    return slow
